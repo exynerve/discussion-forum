@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2f9ce024-e1b3-4fce-9bb7-6639513a23c3" name="Default" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1ec2y5TX0BxPd8Vifun94KySymo" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1557488975932" />
+    <property name="last_opened_file_path" value="$USER_HOME$/OneDrive/Desktop/classifycandidatepro" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="inlay.hints.JAVA" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DiscussionForum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.forum.main.DiscussionForum" />
+      <module name="discussion-forum" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_WORKING_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.forum.main.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="com.forum.main.DiscussionForum" />
+      <module name="discussion-forum" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_WORKING_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="TestNG">
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file enabled="true" id="idea.log" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.DiscussionForum" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="StructureViewFactory">
+    <option name="ACTIVE_ACTIONS" value=",VISIBILITY_SORTER" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2f9ce024-e1b3-4fce-9bb7-6639513a23c3" name="Default" comment="" />
+      <created>1510103639274</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1510103639274</updated>
+      <workItem from="1594606812612" duration="6145000" />
+      <workItem from="1594656154201" duration="25000" />
+      <workItem from="1594881057977" duration="153000" />
+      <workItem from="1594881655955" duration="206000" />
+      <workItem from="1595139176757" duration="83000" />
+      <workItem from="1595155338493" duration="1294000" />
+      <workItem from="1595157161451" duration="13000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="398" y="91" key="#Project_Structure" timestamp="1594606870191">
+      <screen x="74" y="0" width="1462" height="864" />
+    </state>
+    <state x="398" y="91" key="#Project_Structure/74.0.1462.864@74.0.1462.864" timestamp="1594606870191" />
+    <state x="260" y="87" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1594654972525">
+      <screen x="74" y="0" width="1462" height="864" />
+    </state>
+    <state x="260" y="87" key="#com.intellij.execution.impl.EditConfigurationsDialog/74.0.1462.864@74.0.1462.864" timestamp="1594654972525" />
+    <state x="611" y="142" key="#com.intellij.ide.util.MemberChooser" timestamp="1594607306450">
+      <screen x="74" y="0" width="1462" height="864" />
+    </state>
+    <state x="611" y="142" key="#com.intellij.ide.util.MemberChooser/74.0.1462.864@74.0.1462.864" timestamp="1594607306450" />
+    <state x="535" y="216" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1594607030670">
+      <screen x="74" y="0" width="1462" height="864" />
+    </state>
+    <state x="535" y="216" key="#com.intellij.ide.util.TreeClassChooserDialog/74.0.1462.864@74.0.1462.864" timestamp="1594607030670" />
+    <state x="655" y="321" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1594606877681">
+      <screen x="74" y="0" width="1462" height="864" />
+    </state>
+    <state x="655" y="321" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/74.0.1462.864@74.0.1462.864" timestamp="1594606877681" />
+    <state x="540" y="194" key="EnvironmentVariablesDialog" timestamp="1594654552900">
+      <screen x="74" y="0" width="1462" height="864" />
+    </state>
+    <state x="540" y="194" key="EnvironmentVariablesDialog/74.0.1462.864@74.0.1462.864" timestamp="1594654552900" />
+    <state x="586" y="187" key="FileChooserDialogImpl" timestamp="1595139256161">
+      <screen x="74" y="0" width="1462" height="864" />
+    </state>
+    <state x="586" y="187" key="FileChooserDialogImpl/74.0.1462.864@74.0.1462.864" timestamp="1595139256161" />
+    <state width="1419" height="224" key="GridCell.Tab.0.bottom" timestamp="1594656071646">
+      <screen x="74" y="0" width="1462" height="864" />
+    </state>
+    <state width="1419" height="224" key="GridCell.Tab.0.bottom/74.0.1462.864@74.0.1462.864" timestamp="1594656071646" />
+    <state width="1419" height="224" key="GridCell.Tab.0.center" timestamp="1594656071646">
+      <screen x="74" y="0" width="1462" height="864" />
+    </state>
+    <state width="1419" height="224" key="GridCell.Tab.0.center/74.0.1462.864@74.0.1462.864" timestamp="1594656071646" />
+    <state width="1419" height="224" key="GridCell.Tab.0.left" timestamp="1594656071646">
+      <screen x="74" y="0" width="1462" height="864" />
+    </state>
+    <state width="1419" height="224" key="GridCell.Tab.0.left/74.0.1462.864@74.0.1462.864" timestamp="1594656071646" />
+    <state width="1419" height="224" key="GridCell.Tab.0.right" timestamp="1594656071646">
+      <screen x="74" y="0" width="1462" height="864" />
+    </state>
+    <state width="1419" height="224" key="GridCell.Tab.0.right/74.0.1462.864@74.0.1462.864" timestamp="1594656071646" />
+    <state x="314" y="75" key="SettingsEditor" timestamp="1594653807195">
+      <screen x="74" y="0" width="1462" height="864" />
+    </state>
+    <state x="314" y="75" key="SettingsEditor/74.0.1462.864@74.0.1462.864" timestamp="1594653807195" />
+    <state width="498" height="446" key="SwitcherDM" timestamp="1594653758664">
+      <screen x="74" y="0" width="1462" height="864" />
+    </state>
+    <state width="498" height="446" key="SwitcherDM/74.0.1462.864@74.0.1462.864" timestamp="1594653758664" />
+    <state x="502" y="256" key="com.intellij.ide.util.TipDialog" timestamp="1595157160098">
+      <screen x="74" y="0" width="1462" height="864" />
+    </state>
+    <state x="502" y="256" key="com.intellij.ide.util.TipDialog/74.0.1462.864@74.0.1462.864" timestamp="1595157160098" />
+    <state x="462" y="197" key="run.anything.popup" timestamp="1594654931499">
+      <screen x="74" y="0" width="1462" height="864" />
+    </state>
+    <state x="462" y="197" key="run.anything.popup/74.0.1462.864@74.0.1462.864" timestamp="1594654931499" />
+    <state x="468" y="181" width="672" height="678" key="search.everywhere.popup" timestamp="1594653092763">
+      <screen x="74" y="0" width="1462" height="864" />
+    </state>
+    <state x="468" y="181" width="672" height="678" key="search.everywhere.popup/74.0.1462.864@74.0.1462.864" timestamp="1594653092763" />
+  </component>
+</project>
