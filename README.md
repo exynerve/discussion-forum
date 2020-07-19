@@ -1,5 +1,4 @@
-# Assignment 1 
-# discussion-forum
+# Assignment 1: discussion-forum
 A Java application program to showcase the following,
 1. Object oriented concepts - Encapsulation, Abstraction, Inheritance, Polymorphism
 2. Code quality
